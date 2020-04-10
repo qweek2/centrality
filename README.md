@@ -2,6 +2,7 @@
 NICA
 
 1. FitData is for Fitting. Set path to the hist you want to fit with ellipse.
+
 Example:
         
         TFile* f_input = new TFile("path/file_name.root");
