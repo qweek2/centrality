@@ -69,6 +69,7 @@ void ImpactIt()
 	//gdTEvents=theTree->GetEntries();
 	//theTree = SetBranchAddress("impPar",&impPar);
 
+	
 	int count = 0.;
 	int k = 0;
 	int sum = 0;
