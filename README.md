@@ -17,8 +17,7 @@ in case the program does not work correctly cut off the noise using the i and j 
 Set path to file and histo:
 
         TFile *f_input = new TFile("path/file_name.root");
-	
-		TH2F *hist = (TH2F *)f_input->Get("hist_name");
+			TH2F *hist = (TH2F *)f_input->Get("hist_name");
 	
 	
 To use:
