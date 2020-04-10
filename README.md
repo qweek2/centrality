@@ -19,5 +19,6 @@ Set path to file and histo:
         TFile *f_input = new TFile("path/file_name.root");
 	TH2F *hist = (TH2F *)f_input->Get("hist_name");
 To use:
+
         .L impact.cpp
         ImpactIt()
