@@ -23,3 +23,4 @@ To use:
 
         .L impact.cpp
         ImpactIt()
+ 
